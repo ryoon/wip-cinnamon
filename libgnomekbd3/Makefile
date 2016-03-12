@@ -1,7 +1,7 @@
 # $NetBSD$
 
 DISTNAME=	libgnomekbd-3.6.0
-CATEGORIES=	wip-cinnamon
+CATEGORIES=	x11
 MASTER_SITES=	${MASTER_SITE_GNOME:=sources/libgnomekbd/3.6/}
 EXTRACT_SUFX=	.tar.xz
 
