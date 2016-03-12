@@ -1,6 +1,6 @@
 $NetBSD$
 
-SHA1 (cinnamon-desktop-2.8.0.tar.gz) = f7ca193cfa26831bd09b50d12c866c89d39071dc
-RMD160 (cinnamon-desktop-2.8.0.tar.gz) = 9822fcbd049c7234afeb1f5f5609ee143c917637
-SHA512 (cinnamon-desktop-2.8.0.tar.gz) = 594d0de91fce0f26264148b273809cb69aa808bb65768e4a7e44a2d4abf6513889fc70718d6cbc50fb3ca0cc4d8fff8380159be758f72153b2cb20a7793fd3f1
-Size (cinnamon-desktop-2.8.0.tar.gz) = 529136 bytes
+SHA1 (cinnamon-desktop-2.8.1.tar.gz) = fb0188c6cf3a83325db7bb8849d25bea5a3f71e9
+RMD160 (cinnamon-desktop-2.8.1.tar.gz) = 7e8e020d4de4da84bf5d3b74cf54b462ceeb476e
+SHA512 (cinnamon-desktop-2.8.1.tar.gz) = 2f1447232ed11bca7507aa0af1de1f0843c5161665a42c9382b402695fa1f0b42972fb29d6d02cf8f951a7573f44fa9771e82f5bad6aa714419bf4a690e35dae
+Size (cinnamon-desktop-2.8.1.tar.gz) = 529226 bytes
