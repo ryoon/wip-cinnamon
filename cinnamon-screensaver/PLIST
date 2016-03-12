@@ -1,0 +1,16 @@
+@comment $NetBSD$
+bin/cinnamon-screensaver
+bin/cinnamon-screensaver-command
+libexec/cinnamon-screensaver-dialog
+man/man1/cinnamon-screensaver-command.1
+man/man1/cinnamon-screensaver.1
+share/applications/cinnamon-screensaver.desktop
+share/cinnamon-screensaver/screensavers/Makefile
+share/cinnamon-screensaver/screensavers/Makefile.in
+share/cinnamon-screensaver/screensavers/webkit-stars@cinnamon.org/index.html
+share/cinnamon-screensaver/screensavers/webkit-stars@cinnamon.org/metadata.json
+share/cinnamon-screensaver/screensavers/webkit@cinnamon.org/main
+share/cinnamon-screensaver/screensavers/webkit@cinnamon.org/webkit-stars@cinnamon.org/index.html
+share/cinnamon-screensaver/screensavers/webkit@cinnamon.org/webkit-stars@cinnamon.org/metadata.json
+share/cinnamon-screensaver/screensavers/xscreensaver@cinnamon.org/main
+share/dbus-1/services/org.cinnamon.ScreenSaver.service
