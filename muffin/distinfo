@@ -1,0 +1,7 @@
+$NetBSD$
+
+SHA1 (muffin-2.8.5.tar.gz) = 57cd6dbcbc368a6414beb478cc90a912b4fa7987
+RMD160 (muffin-2.8.5.tar.gz) = aafd1e738da2311bacb70c5c9a510c86f7b1db62
+SHA512 (muffin-2.8.5.tar.gz) = a285e076f27e3a52ba4c6d813578e780f7f900e0ed3fa009951d908ffef3b0ded3678f6d298dd08f80b1cd61f20c90b0acd8607d53ad2accc27e16bf1bc14221
+Size (muffin-2.8.5.tar.gz) = 2715965 bytes
+SHA1 (patch-src_core_main.c) = 57c1b3bd3ea71b7861d5a2713e263d2ce63f6cdd
