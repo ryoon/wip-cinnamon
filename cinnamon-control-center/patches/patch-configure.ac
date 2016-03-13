@@ -1,0 +1,15 @@
+$NetBSD$
+
+* Improve POSIX portability
+
+--- configure.ac.orig	2015-10-20 23:59:20.000000000 +0000
++++ configure.ac
+@@ -252,7 +252,7 @@ AC_ARG_WITH([libsocialweb],
+    [with_libsocialweb=no])
+ AC_MSG_RESULT([$with_libsocialweb])
+ 
+-if test "x$with_libsocialweb" == "xyes"; then
++if test "x$with_libsocialweb" = "xyes"; then
+   PKG_CHECK_MODULES(SOCIALWEB, libsocialweb-client)
+   AC_DEFINE(HAVE_LIBSOCIALWEB, 1, [Defined if libsocialweb is available])
+ fi

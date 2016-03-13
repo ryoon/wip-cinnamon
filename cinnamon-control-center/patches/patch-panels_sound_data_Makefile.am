@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- panels/sound/data/Makefile.am.orig	2015-10-20 23:59:20.000000000 +0000
++++ panels/sound/data/Makefile.am
+@@ -6,7 +6,7 @@ SUBDIRS =			\
+ 	$(NULL)
+ 
+ @INTLTOOL_DESKTOP_RULE@
+-autostartdir = $(sysconfdir)/xdg/autostart
++autostartdir = $(PREFIX)/share/examples/cinnamon-control-center
+ autostart_in_files = cinnamon-sound-applet.desktop.in
+ autostart_DATA = $(autostart_in_files:.desktop.in=.desktop)
+ 

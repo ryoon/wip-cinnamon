@@ -1,0 +1,13 @@
+$NetBSD$
+
+--- shell/Makefile.am.orig	2015-10-20 23:59:20.000000000 +0000
++++ shell/Makefile.am
+@@ -74,7 +74,7 @@ AM_CPPFLAGS =							\
+ 	-DMENUDIR="\"$(menudir)\""				\
+ 	-DPANELS_DIR="\"$(PANELS_DIR)\""
+ 
+-menudir = $(sysconfdir)/xdg/menus
++menudir = $(PREFIX)/share/examples/cinnamon-control-center
+ menu_DATA = cinnamoncc.menu
+ 
+ cinnamoncc.menu: cinnamoncc.menu.in

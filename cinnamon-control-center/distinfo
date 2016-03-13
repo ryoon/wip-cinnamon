@@ -1,0 +1,9 @@
+$NetBSD$
+
+SHA1 (cinnamon-control-center-2.8.1.tar.gz) = 5f40815e4aae943abf03d20c253e2c7fbdc0b092
+RMD160 (cinnamon-control-center-2.8.1.tar.gz) = 0138a95c29d97166bfa71aa9b3eff4546a888e0c
+SHA512 (cinnamon-control-center-2.8.1.tar.gz) = e0f21bc29128b56d2024ea5bd9dff70a917259437804f4aad0942ee1313090b70e6811d1b54513b4639c0bff0230efcb2847a42fcf9ad183b24a3cbfeda976de
+Size (cinnamon-control-center-2.8.1.tar.gz) = 4090162 bytes
+SHA1 (patch-configure.ac) = 1c42e40fd380893a09bb2559e06621f6966dbc1f
+SHA1 (patch-panels_sound_data_Makefile.am) = c58ac235403c3d1ae5c43773dc70bc9619e9b7f5
+SHA1 (patch-shell_Makefile.am) = b4efb826dc3179486afea1c01f1a5a0323f814e6
